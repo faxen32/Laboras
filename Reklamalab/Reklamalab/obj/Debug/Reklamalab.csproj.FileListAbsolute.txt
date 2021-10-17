@@ -1,0 +1,7 @@
+C:\Users\count\Desktop\2labprogr\Reklamalab\Reklamalab\bin\Debug\Reklamalab.exe.config
+C:\Users\count\Desktop\2labprogr\Reklamalab\Reklamalab\bin\Debug\Reklamalab.exe
+C:\Users\count\Desktop\2labprogr\Reklamalab\Reklamalab\bin\Debug\Reklamalab.pdb
+C:\Users\count\Desktop\2labprogr\Reklamalab\Reklamalab\obj\Debug\Reklamalab.csproj.CoreCompileInputs.cache
+C:\Users\count\Desktop\2labprogr\Reklamalab\Reklamalab\obj\Debug\Reklamalab.exe
+C:\Users\count\Desktop\2labprogr\Reklamalab\Reklamalab\obj\Debug\Reklamalab.pdb
+C:\Users\count\Desktop\2labprogr\Reklamalab\Reklamalab\obj\Debug\Reklamalab.csproj.AssemblyReference.cache

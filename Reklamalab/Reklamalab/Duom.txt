@@ -1,0 +1,5 @@
+﻿Televizija
+3
+Pirmasis; 2; 3;
+Antrasis; 3; 5;
+Trečiasis; 5; 7;
